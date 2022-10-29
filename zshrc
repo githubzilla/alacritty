@@ -73,7 +73,7 @@ ZSH_THEME="robbyrussell"
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
 #oh-my-zsh tmux plugin
-export ZSH_TMUX_AUTOSTART=true
+export ZSH_TMUX_AUTOSTART=false
 export ZSH_TMUX_AUTOCONNECT=false
 # Which plugins would you like to load?
 # Standard plugins can be found in $ZSH/plugins/
